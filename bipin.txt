@@ -1,0 +1,7 @@
+class bipin
+{
+	public staticvoid main(String args[])
+	{
+	System.out.println("bipin sahani");
+	}
+}
